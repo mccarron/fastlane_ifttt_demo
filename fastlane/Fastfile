@@ -1,0 +1,27 @@
+fastlane_version "1.68.0"
+
+default_platform :ios
+
+platform :ios do
+  before_all do
+    ENV["IFTTT_API_KEY"] = "API_KEY_HERE"
+  end
+
+  lane :lights_green do
+    ifttt(event_name: "build_passed")
+  end
+
+  lane :lights_red do
+    ifttt(event_name: "build_failed")
+  end
+
+  lane :lights_white do
+    ifttt(event_name: "white_color")
+  end
+
+  lane :lights_random do
+    ifttt(event_name: "random_colors")
+  end
+
+
+end
