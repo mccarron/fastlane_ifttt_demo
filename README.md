@@ -4,7 +4,7 @@
 
 ### Slides: 
 
-In Repo: https://github.com/mccarron/fastlane_ifttt_demo/blob/master/IFTTT%20Fastlane%20Talk.key
+Keynote: https://github.com/mccarron/fastlane_ifttt_demo/blob/master/IFTTT%20Fastlane%20Talk.key
 
 ### Demo Video:
 
