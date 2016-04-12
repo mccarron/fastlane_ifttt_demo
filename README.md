@@ -2,13 +2,9 @@
 ## NSCoder Chicago
 ## 3/29/2016
 
-### Presentation: 
+### Presentation Slides at SpeakerDeck: 
 
-##### Keynote File
-* https://github.com/mccarron/fastlane_ifttt_demo/blob/master/IFTTT%20Fastlane%20Talk.key
-
-##### PDF Slides
-* https://github.com/mccarron/fastlane_ifttt_demo/blob/master/IFTTT%20Fastlane%20Talk.pdf
+https://speakerdeck.com/mccarron/fastlane-and-ifttt-demo-lightning-talk
 
 ### Demo Video:
 
